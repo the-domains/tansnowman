@@ -1,0 +1,14 @@
+layout_spectrum: 0.17481018789112568
+typography_spectrum: 0.9944116456899792
+color:
+  brandStrength: 0.08052421710453928
+  lightness: 0.060540036065503955
+  saturation: 0.4072076338343322
+  rhythmicContrast: 0.761351513909176
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: TanSnowMan
